@@ -27,3 +27,6 @@ setup(name= "Insurance",
 # __init__ file and store them to the packages variable
 # i.e __init__ file is use to make the folder a package
 # my email is req. to access my github repo. for extracting the data
+
+# after complteting this file we install requirements.txt file and 
+# Insurance.egg-info is formed
